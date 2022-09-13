@@ -1,3 +1,2 @@
 Added from remote
 This is added from local repository
-This line is for git diff
